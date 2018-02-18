@@ -2,3 +2,5 @@ venv/
 sources.txt
 notes.txt
 .ipynb_checkpoints/
+queries.ods
+GraphDB.slides.html
